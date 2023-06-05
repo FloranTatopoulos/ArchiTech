@@ -1,0 +1,149 @@
+.architech {
+    height:50px;
+    width:170px;
+}
+
+.navbar{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.navbar-collapse {
+    margin-left: 280px;
+}
+
+.nav-link{
+    display: inline !important;
+}
+.nav-item{
+    display: inline;
+    margin-left: 20px;
+}
+.redir{
+    color:black;
+}
+
+.navbar li{
+    margin: 0 30px;
+}
+
+.image1{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 30%;
+}
+
+.image2{
+    float: right;
+    width: 50%;
+}
+
+.image3{
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+    width: 98%;
+}
+.image4{
+    margin-top: 20px;
+    width: 100%;
+    
+}
+.image5{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.prix{
+    margin-top: 20px;
+    margin: auto;
+    display: flex;
+    width: 60%;
+}
+.text-histoire{
+    width: 30%;
+    margin-left: 80px;
+     margin-top: 80px;
+}
+
+.team{
+    width: 100%; 
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.posts{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.text{
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: 'Bauhaus 93'
+}
+.text1{
+    font-family: 'Bauhaus 93';
+    margin: auto;
+    display: flex;
+    width: 30%;
+    margin-top: 50px;
+    color: #007AB5
+}
+
+.text2{
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium';
+}
+.textservice{
+    margin-top: 80px
+}
+
+.text3{
+    margin: auto;
+    display: flex;
+    width: 50%;
+    font-size: 30px;
+    font-family: 'Proxima Nova';
+    text-align: center;
+    color: #007AB5;
+}
+
+.text4{
+    margin: auto;
+    display: flex;
+    width: 50%;
+    font-family: 'Proxima Nova';
+}
+
+.footer{
+    margin-top: 80px;
+    height: 420px;
+    background-color: #252525;
+}
+
+.architech2 {
+    width: 25%;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.contact{
+    color: white;
+    float: left;
+    
+}
+
+.reseaux{
+    width: 50%;
+    margin-left: 100px;
+}
+
+.adress{
+    margin-left: 100px;
+}
